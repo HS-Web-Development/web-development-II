@@ -25,6 +25,10 @@ div p, div ul{
     font-size: 1em;
 }
 
+img{
+    width: 22.5%;
+    padding-right: 1%;
+}
 
 footer{
     text-align: right;
