@@ -11,7 +11,11 @@ body {
 header h1{
     font-weight: bolder;
     text-align: center;
-   }
+}
+
+h2 {
+    text-align: center;
+}
 
 header{
     border: 3px solid black;
@@ -19,6 +23,11 @@ header{
 
 #return{
     font-size: 0.7rem;
+}
+
+#announcement{
+    font-size: 1rem;
+    padding-left: 10em;
 }
 
 div h3{
